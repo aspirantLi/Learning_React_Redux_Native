@@ -5,6 +5,6 @@ body{
 ul li{
     list-style: none;
 }
+a{border-bottom: 1px solid red}
 
-a{border-bottom: none}
 
